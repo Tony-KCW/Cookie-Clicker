@@ -1,0 +1,200 @@
+{
+  "cookies": 0.0,
+  "cookies_accum": 0.0,
+  "upgrades": [
+    {
+      "name": "Cursor",
+      "base_cost": 15,
+      "base_cps": 0.1,
+      "count": 0
+    },
+    {
+      "name": "Grandma",
+      "base_cost": 100,
+      "base_cps": 0.5,
+      "count": 0
+    },
+    {
+      "name": "Farm",
+      "base_cost": 500,
+      "base_cps": 4,
+      "count": 0
+    },
+    {
+      "name": "Mine",
+      "base_cost": 3000,
+      "base_cps": 10,
+      "count": 0
+    },
+    {
+      "name": "Factory",
+      "base_cost": 10000,
+      "base_cps": 40,
+      "count": 0
+    },
+    {
+      "name": "Bank",
+      "base_cost": 40000,
+      "base_cps": 100,
+      "count": 0
+    },
+    {
+      "name": "Temple",
+      "base_cost": 200000,
+      "base_cps": 400,
+      "count": 0
+    },
+    {
+      "name": "Wizard Tower",
+      "base_cost": 1300000,
+      "base_cps": 1600,
+      "count": 0
+    },
+    {
+      "name": "Shipment",
+      "base_cost": 7800000,
+      "base_cps": 6500,
+      "count": 0
+    },
+    {
+      "name": "Alchemy Lab",
+      "base_cost": 44000000,
+      "base_cps": 26000,
+      "count": 0
+    },
+    {
+      "name": "Portal",
+      "base_cost": 260000000,
+      "base_cps": 100000,
+      "count": 0
+    },
+    {
+      "name": "Time Machine",
+      "base_cost": 1400000000,
+      "base_cps": 400000,
+      "count": 0
+    },
+    {
+      "name": "Antimatter",
+      "base_cost": 7100000000,
+      "base_cps": 1600000,
+      "count": 0
+    },
+    {
+      "name": "Prism",
+      "base_cost": 36000000000,
+      "base_cps": 6400000,
+      "count": 0
+    },
+    {
+      "name": "Chancemaker",
+      "base_cost": 180000000000,
+      "base_cps": 25000000,
+      "count": 0
+    },
+    {
+      "name": "Fractal Engine",
+      "base_cost": 900000000000,
+      "base_cps": 100000000,
+      "count": 0
+    },
+    {
+      "name": "JavaScript Console",
+      "base_cost": 4500000000000,
+      "base_cps": 400000000,
+      "count": 0
+    },
+    {
+      "name": "Idleverse",
+      "base_cost": 22000000000000,
+      "base_cps": 1600000000,
+      "count": 0
+    },
+    {
+      "name": "Cortex Baker",
+      "base_cost": 110000000000000,
+      "base_cps": 6400000000,
+      "count": 0
+    },
+    {
+      "name": "You",
+      "base_cost": 550000000000000,
+      "base_cps": 25000000000,
+      "count": 0
+    },
+    {
+      "name": "Elder Pledge",
+      "base_cost": 2700000000000000,
+      "base_cps": 100000000000,
+      "count": 0
+    },
+    {
+      "name": "Elder Covenant",
+      "base_cost": 13000000000000000,
+      "base_cps": 400000000000,
+      "count": 0
+    },
+    {
+      "name": "Elder Ruin",
+      "base_cost": 65000000000000000,
+      "base_cps": 1600000000000,
+      "count": 0
+    },
+    {
+      "name": "Black Hole",
+      "base_cost": 320000000000000000,
+      "base_cps": 6400000000000,
+      "count": 0
+    },
+    {
+      "name": "Dimensional Rift",
+      "base_cost": 1600000000000000000,
+      "base_cps": 25000000000000,
+      "count": 0
+    },
+    {
+      "name": "Cookie Singularity",
+      "base_cost": 8000000000000000000,
+      "base_cps": 100000000000000,
+      "count": 0
+    },
+    {
+      "name": "Grandmaverse",
+      "base_cost": 40000000000000000000,
+      "base_cps": 400000000000000,
+      "count": 0
+    },
+    {
+      "name": "Reality Bender",
+      "base_cost": 200000000000000000000,
+      "base_cps": 1600000000000000,
+      "count": 0
+    },
+    {
+      "name": "Omega Cursor",
+      "base_cost": 1000000000000000000000,
+      "base_cps": 6400000000000000,
+      "count": 0
+    },
+    {
+      "name": "The Void",
+      "base_cost": 5000000000000000000000,
+      "base_cps": 25000000000000000,
+      "count": 0
+    },
+    {
+      "name": "Infinity Oven",
+      "base_cost": 25000000000000000000000,
+      "base_cps": 100000000000000000,
+      "count": 0
+    },
+    {
+      "name": "Golden Monument",
+      "base_cost": 125000000000000000000000,
+      "base_cps": 400000000000000000,
+      "count": 0
+    }
+  ],
+  "total_clicked": 0,
+  "playtime": 161.4049999999904
+}
